@@ -1,0 +1,45 @@
+Programming?
+giving instructions to computer to perform a specific task
+
+C programming
+it is a structured, high level, compiled programming language
+
+structured - paradigms 1.functional(structural) 2.OOP
+
+
+high level - 
+machine language - 0's and 1's - binary - 10010 10101 11010 - 3+4
+assembly - nuemonics & symbols - add 3,4
+high level - c - human readable - 3+4
+
+compiled programming lang.
+- whole code is checked for error and if there are no errors then an executable file will be created
+
+Interpreted programming lang.
+
+
+
+C compiler - msys2.org
+Vs code - 
+
+gcc
+
+2>3 - F - 0
+2<3 - T - 1
+
+In C true is represented using 1 and false is represented using 0
+
+All non zero numbers are True
+
+
+2>3 && 2<4 - F - 0
+2>3 || 2<4 - T - 1
+
+0 && 1 - 0
+
+2+3
+unary - !,++,--,~,sizeof
+binary - &&, ||
+ternary - ?:
+
+
