@@ -4,6 +4,6 @@ void main() {
     printf("Enter value of n:");
     scanf("%d",&n);
     // scanf("%d%d",&a,&b);
-    r=n*(n+1)/2;
+    r=n*(n+1)/2 ;
     printf("The sum is %d",r);
 }

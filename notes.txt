@@ -43,3 +43,18 @@ binary - &&, ||
 ternary - ?:
 
 
+
+temp=33
+age=20
+age+age
+Age=40
+
+a=5
+b=2
+c=a
+(float)a/b
+
+2>3 ->  0 - F
+2<3 ->  1 - T
+a=3!=3
+All non zero numbers in C are considered true
