@@ -58,3 +58,20 @@ c=a
 2<3 ->  1 - T
 a=3!=3
 All non zero numbers in C are considered true
+
+
+2>3 && 4>2 ->0 && 1-> F or 0
+age=12
+salary=20000
+
+age>=18 && salary>=20000
+1 && 1
+1
+
+age=age+1
+age--
+++age
+
+age=age+10
+age+=10
+?:

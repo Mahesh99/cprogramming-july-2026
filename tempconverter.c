@@ -6,3 +6,6 @@ void main() {
     f=1.8*c+32;
     printf("Temperature in fahrenheit is %f",f);
 }
+void sum() {
+    
+}
